@@ -1,2 +1,2 @@
-# know-your-parliament.github.io
+# know-your-parliament
 Computational Social Science Project
