@@ -1,0 +1,24 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "name": "Folketinget",
+            "size": 100,
+            "group": "red",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_Folketing_of_Denmark.svg/1200px-Seal_of_the_Folketing_of_Denmark.svg.png"
+        },
+        {
+            "id": 1,
+            "name": "Politikere",
+            "size": 25,
+            "group": "#af0032"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "weight": 40
+        }
+    ]
+}
